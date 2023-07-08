@@ -1,0 +1,3 @@
+Checklist:
+
+	1:15:37 - AppleXcpmCfgLock maybe we need to set it as True (depending if we have the option CFG_Lock on BIOS or not)
