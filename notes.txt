@@ -1,3 +1,5 @@
 Checklist:
 
 	1:15:37 - AppleXcpmCfgLock maybe we need to set it as True (depending if we have the option CFG_Lock on BIOS or not)
+	1:18:00 - When using SMBIOS tool to populate config.plist, noticed that some XML entries on config.plist got messed up. Maybe it's worth checking this commit
+		  and pick just the changes that are directly related to SMBIOS.
